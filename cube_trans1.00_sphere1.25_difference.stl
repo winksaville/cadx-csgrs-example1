@@ -1,6 +1,13 @@
 solid cube_trans1.00_sphere1.25
   facet normal -0.000000 0.000000 -1.000000
     outer loop
+      vertex 1.909015 2.000000 0.000000
+      vertex 2.000000 2.000000 0.000000
+      vertex 2.000000 1.939206 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 0.000000 -1.000000
+    outer loop
       vertex 1.909015 0.000000 0.000000
       vertex 2.000000 0.060794 0.000000
       vertex 2.000000 0.000000 0.000000
@@ -8,9 +15,30 @@ solid cube_trans1.00_sphere1.25
   endfacet
   facet normal -0.000000 -0.000000 -1.000000
     outer loop
+      vertex 0.000000 1.939206 0.000000
+      vertex 0.000000 2.000000 0.000000
+      vertex 0.090985 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
       vertex 0.090985 0.000000 0.000000
       vertex 0.000000 0.000000 0.000000
       vertex 0.000000 0.060794 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
+      vertex 0.000000 1.673388 0.000000
+      vertex 0.000000 1.939206 0.000000
+      vertex 0.090985 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
+      vertex 0.000000 1.673388 0.000000
+      vertex 0.090985 2.000000 0.000000
+      vertex 0.488810 2.000000 0.000000
     endloop
   endfacet
   facet normal -0.000000 -0.000000 -1.000000
@@ -53,6 +81,20 @@ solid cube_trans1.00_sphere1.25
       vertex 0.488810 0.000000 0.000000
       vertex 0.392615 0.000000 0.000000
       vertex 0.315029 0.116117 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
+      vertex 0.125914 1.600853 0.000000
+      vertex 0.315029 1.883883 0.000000
+      vertex 0.488810 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
+      vertex 0.125914 1.600853 0.000000
+      vertex 0.488810 2.000000 0.000000
+      vertex 0.830555 2.000000 0.000000
     endloop
   endfacet
   facet normal -0.000000 -0.000000 -1.000000
@@ -134,6 +176,20 @@ solid cube_trans1.00_sphere1.25
   endfacet
   facet normal -0.000000 -0.000000 -1.000000
     outer loop
+      vertex 0.493491 1.716311 0.000000
+      vertex 0.625567 1.883883 0.000000
+      vertex 0.830555 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
+      vertex 0.493491 1.716311 0.000000
+      vertex 0.830555 2.000000 0.000000
+      vertex 1.243014 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
       vertex 0.268216 1.317571 0.000000
       vertex 0.305941 1.478354 0.000000
       vertex 0.493491 1.716311 0.000000
@@ -204,6 +260,27 @@ solid cube_trans1.00_sphere1.25
   endfacet
   facet normal -0.000000 -0.000000 -1.000000
     outer loop
+      vertex 0.815835 1.781820 0.000000
+      vertex 0.936227 1.883883 0.000000
+      vertex 1.243014 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
+      vertex 0.815835 1.781820 0.000000
+      vertex 1.243014 2.000000 0.000000
+      vertex 1.909015 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
+      vertex 0.815835 1.781820 0.000000
+      vertex 1.909015 2.000000 0.000000
+      vertex 2.000000 1.939206 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
       vertex 0.585786 1.586794 0.000000
       vertex 0.815835 1.781820 0.000000
       vertex 1.583757 1.883883 0.000000
@@ -235,6 +312,20 @@ solid cube_trans1.00_sphere1.25
       vertex 1.928986 0.013344 0.000000
       vertex 1.583757 0.116117 0.000000
       vertex 2.000000 0.060794 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 0.000000 -1.000000
+    outer loop
+      vertex 1.223394 1.776606 0.000000
+      vertex 1.583757 1.883883 0.000000
+      vertex 2.000000 1.939206 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 0.000000 -1.000000
+    outer loop
+      vertex 1.223394 1.776606 0.000000
+      vertex 2.000000 1.939206 0.000000
+      vertex 2.000000 1.673388 0.000000
     endloop
   endfacet
   facet normal -0.000000 0.000000 -1.000000
@@ -281,6 +372,20 @@ solid cube_trans1.00_sphere1.25
   endfacet
   facet normal -0.000000 0.000000 -1.000000
     outer loop
+      vertex 1.414214 1.586794 0.000000
+      vertex 1.778481 1.478354 0.000000
+      vertex 2.000000 1.256835 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 0.000000 -1.000000
+    outer loop
+      vertex 1.414214 1.586794 0.000000
+      vertex 2.000000 1.256835 0.000000
+      vertex 2.000000 1.090188 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 0.000000 -1.000000
+    outer loop
       vertex 1.852194 0.595359 0.000000
       vertex 1.542127 1.478354 0.000000
       vertex 2.000000 1.090188 0.000000
@@ -316,9 +421,128 @@ solid cube_trans1.00_sphere1.25
   endfacet
   facet normal -0.000000 -0.000000 1.000000
     outer loop
+      vertex 2.000000 1.673388 2.000000
+      vertex 2.000000 2.000000 2.000000
+      vertex 1.511190 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 2.000000 1.412409 2.000000
+      vertex 2.000000 1.673388 2.000000
+      vertex 1.684971 1.883883 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 2.000000 1.256835 2.000000
+      vertex 2.000000 1.412409 2.000000
+      vertex 1.955937 1.478354 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 0.000000 1.000000
+    outer loop
+      vertex 1.852175 0.000000 2.000000
+      vertex 2.000000 0.000000 2.000000
+      vertex 2.000000 0.743165 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.607385 0.000000 2.000000
+      vertex 1.852175 0.000000 2.000000
+      vertex 1.955937 0.521646 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
       vertex 1.511190 0.000000 2.000000
       vertex 1.607385 0.000000 2.000000
       vertex 1.684971 0.116117 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.874086 1.600853 2.000000
+      vertex 1.684971 1.883883 2.000000
+      vertex 1.511190 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.874086 1.600853 2.000000
+      vertex 1.511190 2.000000 2.000000
+      vertex 1.169445 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 2.000000 1.090188 2.000000
+      vertex 2.000000 1.256835 2.000000
+      vertex 1.955937 1.478354 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 2.000000 1.090188 2.000000
+      vertex 1.955937 1.478354 2.000000
+      vertex 1.874086 1.600853 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 2.000000 1.090188 2.000000
+      vertex 1.874086 1.600853 2.000000
+      vertex 1.374433 1.883883 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.928255 0.480217 2.000000
+      vertex 1.955937 0.521646 2.000000
+      vertex 2.000000 0.743165 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.928255 0.480217 2.000000
+      vertex 2.000000 0.743165 2.000000
+      vertex 2.000000 1.090188 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.928255 0.480217 2.000000
+      vertex 2.000000 1.090188 2.000000
+      vertex 1.694059 1.478354 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 0.000000 1.000000
+    outer loop
+      vertex 1.582907 0.047920 2.000000
+      vertex 1.684971 0.116117 2.000000
+      vertex 1.928255 0.480217 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 0.000000 1.000000
+    outer loop
+      vertex 1.582907 0.047920 2.000000
+      vertex 1.928255 0.480217 2.000000
+      vertex 1.806297 1.000000 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.282913 0.000000 2.000000
+      vertex 1.511190 0.000000 2.000000
+      vertex 1.582907 0.047920 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.282913 0.000000 2.000000
+      vertex 1.582907 0.047920 2.000000
+      vertex 1.694059 0.521646 2.000000
     endloop
   endfacet
   facet normal -0.000000 -0.000000 1.000000
@@ -330,9 +554,128 @@ solid cube_trans1.00_sphere1.25
   endfacet
   facet normal -0.000000 -0.000000 1.000000
     outer loop
+      vertex 1.506509 1.716311 2.000000
+      vertex 1.374433 1.883883 2.000000
+      vertex 1.169445 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.506509 1.716311 2.000000
+      vertex 1.169445 2.000000 2.000000
+      vertex 0.756986 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.731784 1.317571 2.000000
+      vertex 1.694059 1.478354 2.000000
+      vertex 1.506509 1.716311 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.731784 1.317571 2.000000
+      vertex 1.506509 1.716311 2.000000
+      vertex 1.063773 1.883883 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.767767 0.835786 2.000000
+      vertex 1.806297 1.000000 2.000000
+      vertex 1.731784 1.317571 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.767767 0.835786 2.000000
+      vertex 1.731784 1.317571 2.000000
+      vertex 1.542127 1.478354 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 0.000000 1.000000
+    outer loop
+      vertex 1.420046 0.173989 2.000000
+      vertex 1.694059 0.521646 2.000000
+      vertex 1.767767 0.835786 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 0.000000 1.000000
+    outer loop
+      vertex 1.420046 0.173989 2.000000
+      vertex 1.767767 0.835786 2.000000
+      vertex 1.710103 1.000000 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.926804 0.000000 2.000000
+      vertex 1.169445 0.000000 2.000000
+      vertex 1.374433 0.116117 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.926804 0.000000 2.000000
+      vertex 1.374433 0.116117 2.000000
+      vertex 1.420046 0.173989 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.926804 0.000000 2.000000
+      vertex 1.420046 0.173989 2.000000
+      vertex 1.542127 0.521646 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
       vertex 0.756986 0.000000 2.000000
       vertex 0.926804 0.000000 2.000000
       vertex 1.063773 0.116117 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.000000 1.939206 2.000000
+      vertex 1.184165 1.781820 2.000000
+      vertex 1.063773 1.883883 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.000000 1.939206 2.000000
+      vertex 1.063773 1.883883 2.000000
+      vertex 0.756986 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.000000 1.939206 2.000000
+      vertex 0.756986 2.000000 2.000000
+      vertex 0.000000 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 1.000000
+    outer loop
+      vertex 0.416243 1.883883 2.000000
+      vertex 1.414214 1.586794 2.000000
+      vertex 1.184165 1.781820 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.026189 0.000000 2.000000
+      vertex 0.756986 0.000000 2.000000
+      vertex 1.063773 0.116117 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.026189 0.000000 2.000000
+      vertex 1.063773 0.116117 2.000000
+      vertex 1.414214 0.413206 2.000000
     endloop
   endfacet
   facet normal -0.000000 -0.000000 1.000000
@@ -351,9 +694,128 @@ solid cube_trans1.00_sphere1.25
   endfacet
   facet normal -0.000000 -0.000000 1.000000
     outer loop
+      vertex 0.776606 1.776606 2.000000
+      vertex 0.416243 1.883883 2.000000
+      vertex 0.000000 1.939206 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.776606 1.776606 2.000000
+      vertex 0.000000 1.939206 2.000000
+      vertex 0.000000 1.673388 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.000000 1.710103 2.000000
+      vertex 0.776606 1.776606 2.000000
+      vertex 0.000000 1.673388 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 1.000000 1.710103 2.000000
+      vertex 0.000000 1.673388 2.000000
+      vertex 0.000000 1.412409 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.221519 1.478354 2.000000
+      vertex 0.000000 1.412409 2.000000
+      vertex 0.000000 1.256835 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.000000 0.743165 2.000000
+      vertex 0.000000 0.060794 2.000000
+      vertex 0.416243 0.116117 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.000000 0.743165 2.000000
+      vertex 0.416243 0.116117 2.000000
+      vertex 0.578689 0.164476 2.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.221519 0.521646 2.000000
+      vertex 0.578689 0.164476 2.000000
+      vertex 1.000000 0.289897 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.585786 1.586794 2.000000
+      vertex 0.221519 1.478354 2.000000
+      vertex 0.000000 1.256835 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.585786 1.586794 2.000000
+      vertex 0.000000 1.256835 2.000000
+      vertex 0.000000 1.090188 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.457873 1.478354 2.000000
+      vertex 0.000000 1.090188 2.000000
+      vertex 0.000000 0.743165 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.457873 1.478354 2.000000
+      vertex 0.000000 0.743165 2.000000
+      vertex 0.147806 0.595359 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.289897 1.000000 2.000000
+      vertex 0.147806 0.595359 2.000000
+      vertex 0.221519 0.521646 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
+      vertex 0.289897 1.000000 2.000000
+      vertex 0.221519 0.521646 2.000000
+      vertex 0.485465 0.443071 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 1.000000
+    outer loop
       vertex 0.457873 0.521646 2.000000
       vertex 0.485465 0.443071 2.000000
       vertex 0.585786 0.413206 2.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.000000 1.256835
+      vertex 2.000000 0.000000 2.000000
+      vertex 1.852175 0.000000 2.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.000000 0.026189
+      vertex 2.000000 0.000000 1.256835
+      vertex 1.852175 0.000000 2.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.000000 0.026189
+      vertex 1.852175 0.000000 2.000000
+      vertex 1.607385 0.000000 2.000000
     endloop
   endfacet
   facet normal 0.000000 -1.000000 -0.000000
@@ -379,6 +841,13 @@ solid cube_trans1.00_sphere1.25
   endfacet
   facet normal 0.000000 -1.000000 -0.000000
     outer loop
+      vertex 1.607952 0.000000 1.513545
+      vertex 1.511190 0.000000 2.000000
+      vertex 1.282913 0.000000 2.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 -0.000000
+    outer loop
       vertex 1.656049 0.000000 1.271745
       vertex 1.607952 0.000000 1.513545
       vertex 1.282913 0.000000 2.000000
@@ -393,6 +862,13 @@ solid cube_trans1.00_sphere1.25
   endfacet
   facet normal 0.000000 -1.000000 -0.000000
     outer loop
+      vertex 1.365150 0.000000 1.707107
+      vertex 1.169445 0.000000 2.000000
+      vertex 0.926804 0.000000 2.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 -0.000000
+    outer loop
       vertex 1.502119 0.000000 1.502119
       vertex 1.365150 0.000000 1.707107
       vertex 0.926804 0.000000 2.000000
@@ -403,6 +879,13 @@ solid cube_trans1.00_sphere1.25
       vertex 1.502119 0.000000 1.502119
       vertex 0.926804 0.000000 2.000000
       vertex 0.756986 0.000000 2.000000
+    endloop
+  endfacet
+  facet normal 0.000000 -1.000000 -0.000000
+    outer loop
+      vertex 1.066756 0.000000 1.793018
+      vertex 0.756986 0.000000 2.000000
+      vertex 0.026189 0.000000 2.000000
     endloop
   endfacet
   facet normal 0.000000 -1.000000 -0.000000
@@ -424,6 +907,27 @@ solid cube_trans1.00_sphere1.25
       vertex 0.000000 0.000000 1.909015
       vertex 0.026189 0.000000 2.000000
       vertex 0.000000 0.000000 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -1.000000 -0.000000
+    outer loop
+      vertex 0.142877 0.000000 1.880595
+      vertex 0.000000 0.000000 1.909015
+      vertex 0.000000 0.000000 1.852175
+    endloop
+  endfacet
+  facet normal -0.000000 -1.000000 -0.000000
+    outer loop
+      vertex 0.758200 0.000000 1.758200
+      vertex 0.142877 0.000000 1.880595
+      vertex 0.000000 0.000000 1.852175
+    endloop
+  endfacet
+  facet normal -0.000000 -1.000000 -0.000000
+    outer loop
+      vertex 0.758200 0.000000 1.758200
+      vertex 0.000000 0.000000 1.852175
+      vertex 0.000000 0.000000 1.607385
     endloop
   endfacet
   facet normal -0.000000 -1.000000 -0.000000
@@ -699,6 +1203,153 @@ solid cube_trans1.00_sphere1.25
       vertex 1.710103 0.000000 1.000000
     endloop
   endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 1.909015 2.000000 0.000000
+      vertex 1.511190 2.000000 2.000000
+      vertex 2.000000 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 1.909015 2.000000 0.000000
+      vertex 2.000000 2.000000 2.000000
+      vertex 2.000000 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 0.000000
+    outer loop
+      vertex 1.656049 2.000000 1.271745
+      vertex 1.169445 2.000000 2.000000
+      vertex 1.511190 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 0.000000
+    outer loop
+      vertex 1.502119 2.000000 1.502119
+      vertex 0.756986 2.000000 2.000000
+      vertex 1.169445 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 -0.000000
+    outer loop
+      vertex 1.271745 2.000000 1.656049
+      vertex 0.000000 2.000000 1.909015
+      vertex 0.000000 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 -0.000000
+    outer loop
+      vertex 1.271745 2.000000 1.656049
+      vertex 0.000000 2.000000 2.000000
+      vertex 0.756986 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 1.000000 2.000000 1.710103
+      vertex 0.000000 2.000000 1.511190
+      vertex 0.000000 2.000000 1.909015
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 0.728255 2.000000 1.656049
+      vertex 0.000000 2.000000 1.169445
+      vertex 0.000000 2.000000 1.511190
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 0.497881 2.000000 1.502119
+      vertex 0.000000 2.000000 0.756986
+      vertex 0.000000 2.000000 1.169445
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 0.343951 2.000000 1.271745
+      vertex 0.090985 2.000000 0.000000
+      vertex 0.000000 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 0.343951 2.000000 1.271745
+      vertex 0.000000 2.000000 0.000000
+      vertex 0.000000 2.000000 0.756986
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 0.289897 2.000000 1.000000
+      vertex 0.488810 2.000000 0.000000
+      vertex 0.090985 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 0.343951 2.000000 0.728255
+      vertex 0.830555 2.000000 0.000000
+      vertex 0.488810 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 0.497881 2.000000 0.497881
+      vertex 1.243014 2.000000 0.000000
+      vertex 0.830555 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 0.728255 2.000000 0.343951
+      vertex 1.886423 2.000000 0.113577
+      vertex 1.909015 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 0.728255 2.000000 0.343951
+      vertex 1.909015 2.000000 0.000000
+      vertex 1.243014 2.000000 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 1.000000 -0.000000
+    outer loop
+      vertex 1.000000 2.000000 0.289897
+      vertex 1.818948 2.000000 0.452796
+      vertex 1.886423 2.000000 0.113577
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 -0.000000
+    outer loop
+      vertex 1.271745 2.000000 0.343951
+      vertex 1.773863 2.000000 0.679455
+      vertex 1.818948 2.000000 0.452796
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 -0.000000
+    outer loop
+      vertex 1.502119 2.000000 0.497881
+      vertex 1.739356 2.000000 0.852933
+      vertex 1.773863 2.000000 0.679455
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 -0.000000
+    outer loop
+      vertex 1.656049 2.000000 0.728255
+      vertex 1.710103 2.000000 1.000000
+      vertex 1.739356 2.000000 0.852933
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 0.000000
+    outer loop
+      vertex 0.000000 1.939206 2.000000
+      vertex 0.000000 2.000000 2.000000
+      vertex 0.000000 2.000000 1.909015
+    endloop
+  endfacet
   facet normal -1.000000 -0.000000 -0.000000
     outer loop
       vertex 0.000000 0.000000 1.909015
@@ -706,11 +1357,130 @@ solid cube_trans1.00_sphere1.25
       vertex 0.000000 0.060794 2.000000
     endloop
   endfacet
+  facet normal -1.000000 -0.000000 0.000000
+    outer loop
+      vertex 0.000000 1.673388 2.000000
+      vertex 0.000000 1.939206 2.000000
+      vertex 0.000000 2.000000 1.909015
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 0.000000
+    outer loop
+      vertex 0.000000 1.673388 2.000000
+      vertex 0.000000 2.000000 1.909015
+      vertex 0.000000 2.000000 1.511190
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 1.412409 2.000000
+      vertex 0.000000 1.673388 2.000000
+      vertex 0.000000 1.883883 1.684971
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 1.256835 2.000000
+      vertex 0.000000 1.412409 2.000000
+      vertex 0.000000 1.478354 1.955937
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 0.000000 1.852175
+      vertex 0.000000 0.000000 1.909015
+      vertex 0.000000 0.060794 2.000000
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 0.000000 1.852175
+      vertex 0.000000 0.060794 2.000000
+      vertex 0.000000 0.743165 2.000000
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 0.000000 1.607385
+      vertex 0.000000 0.000000 1.852175
+      vertex 0.000000 0.521646 1.955937
+    endloop
+  endfacet
   facet normal -1.000000 -0.000000 -0.000000
     outer loop
       vertex 0.000000 0.000000 1.511190
       vertex 0.000000 0.000000 1.607385
       vertex 0.000000 0.116117 1.684971
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 0.000000
+    outer loop
+      vertex 0.000000 1.600853 1.874086
+      vertex 0.000000 1.883883 1.684971
+      vertex 0.000000 2.000000 1.511190
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 0.000000
+    outer loop
+      vertex 0.000000 1.600853 1.874086
+      vertex 0.000000 2.000000 1.511190
+      vertex 0.000000 2.000000 1.169445
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 1.090188 2.000000
+      vertex 0.000000 1.256835 2.000000
+      vertex 0.000000 1.478354 1.955937
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 1.090188 2.000000
+      vertex 0.000000 1.478354 1.955937
+      vertex 0.000000 1.600853 1.874086
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 1.090188 2.000000
+      vertex 0.000000 1.600853 1.874086
+      vertex 0.000000 1.883883 1.374433
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 0.480217 1.928255
+      vertex 0.000000 0.521646 1.955937
+      vertex 0.000000 0.743165 2.000000
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 0.480217 1.928255
+      vertex 0.000000 0.743165 2.000000
+      vertex 0.000000 1.090188 2.000000
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 0.480217 1.928255
+      vertex 0.000000 1.090188 2.000000
+      vertex 0.000000 1.478354 1.694059
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 0.047920 1.582907
+      vertex 0.000000 0.116117 1.684971
+      vertex 0.000000 0.480217 1.928255
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 0.047920 1.582907
+      vertex 0.000000 0.480217 1.928255
+      vertex 0.000000 1.000000 1.806297
     endloop
   endfacet
   facet normal -1.000000 -0.000000 -0.000000
@@ -732,6 +1502,34 @@ solid cube_trans1.00_sphere1.25
       vertex 0.000000 0.000000 1.169445
       vertex 0.000000 0.000000 1.282913
       vertex 0.000000 0.116117 1.374433
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 0.000000
+    outer loop
+      vertex 0.000000 1.716311 1.506509
+      vertex 0.000000 1.883883 1.374433
+      vertex 0.000000 2.000000 1.169445
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 0.000000
+    outer loop
+      vertex 0.000000 1.716311 1.506509
+      vertex 0.000000 2.000000 1.169445
+      vertex 0.000000 2.000000 0.756986
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 1.317571 1.731784
+      vertex 0.000000 1.478354 1.694059
+      vertex 0.000000 1.716311 1.506509
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 1.317571 1.731784
+      vertex 0.000000 1.716311 1.506509
+      vertex 0.000000 1.883883 1.063773
     endloop
   endfacet
   facet normal -1.000000 -0.000000 -0.000000
@@ -790,6 +1588,27 @@ solid cube_trans1.00_sphere1.25
       vertex 0.000000 0.116117 1.063773
     endloop
   endfacet
+  facet normal -1.000000 -0.000000 0.000000
+    outer loop
+      vertex 0.000000 1.939206 0.000000
+      vertex 0.000000 1.781820 1.184165
+      vertex 0.000000 1.883883 1.063773
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 0.000000
+    outer loop
+      vertex 0.000000 1.939206 0.000000
+      vertex 0.000000 1.883883 1.063773
+      vertex 0.000000 2.000000 0.756986
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 0.000000
+    outer loop
+      vertex 0.000000 1.939206 0.000000
+      vertex 0.000000 2.000000 0.756986
+      vertex 0.000000 2.000000 0.000000
+    endloop
+  endfacet
   facet normal -1.000000 -0.000000 -0.000000
     outer loop
       vertex 0.000000 1.883883 0.416243
@@ -823,6 +1642,20 @@ solid cube_trans1.00_sphere1.25
       vertex 0.000000 0.060794 0.000000
       vertex 0.000000 0.000000 0.026189
       vertex 0.000000 0.116117 0.416243
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 1.776606 0.776606
+      vertex 0.000000 1.883883 0.416243
+      vertex 0.000000 1.939206 0.000000
+    endloop
+  endfacet
+  facet normal -1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 0.000000 1.776606 0.776606
+      vertex 0.000000 1.939206 0.000000
+      vertex 0.000000 1.673388 0.000000
     endloop
   endfacet
   facet normal -1.000000 -0.000000 -0.000000
@@ -918,6 +1751,48 @@ solid cube_trans1.00_sphere1.25
   endfacet
   facet normal 1.000000 -0.000000 -0.000000
     outer loop
+      vertex 2.000000 1.939206 0.000000
+      vertex 2.000000 2.000000 0.000000
+      vertex 2.000000 2.000000 2.000000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 1.939206 0.000000
+      vertex 2.000000 2.000000 2.000000
+      vertex 2.000000 1.673388 2.000000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 1.883883 0.416243
+      vertex 2.000000 1.673388 2.000000
+      vertex 2.000000 1.412409 2.000000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 1.478354 1.778481
+      vertex 2.000000 1.412409 2.000000
+      vertex 2.000000 1.256835 2.000000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.000000 1.256835
+      vertex 2.000000 0.743165 2.000000
+      vertex 2.000000 0.000000 2.000000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.521646 1.778481
+      vertex 2.000000 0.000000 1.256835
+      vertex 2.000000 0.000000 0.026189
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
       vertex 2.000000 0.116117 0.416243
       vertex 2.000000 0.000000 0.026189
       vertex 2.000000 0.000000 0.000000
@@ -928,6 +1803,62 @@ solid cube_trans1.00_sphere1.25
       vertex 2.000000 0.116117 0.416243
       vertex 2.000000 0.000000 0.000000
       vertex 2.000000 0.060794 0.000000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 1.586794 1.414214
+      vertex 2.000000 1.478354 1.778481
+      vertex 2.000000 1.256835 2.000000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 1.586794 1.414214
+      vertex 2.000000 1.256835 2.000000
+      vertex 2.000000 1.090188 2.000000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.595359 1.852194
+      vertex 2.000000 1.478354 1.542127
+      vertex 2.000000 1.090188 2.000000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.595359 1.852194
+      vertex 2.000000 1.090188 2.000000
+      vertex 2.000000 0.743165 2.000000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 1.000000 1.710103
+      vertex 2.000000 0.595359 1.852194
+      vertex 2.000000 0.521646 1.778481
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 1.000000 1.710103
+      vertex 2.000000 0.521646 1.778481
+      vertex 2.000000 0.443071 1.514535
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.521646 1.542127
+      vertex 2.000000 0.443071 1.514535
+      vertex 2.000000 0.413206 1.414214
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 0.000000
+    outer loop
+      vertex 2.000000 1.673388 0.000000
+      vertex 2.000000 1.939206 0.000000
+      vertex 2.000000 1.895104 0.331821
     endloop
   endfacet
   facet normal 1.000000 -0.000000 -0.000000
@@ -963,6 +1894,55 @@ solid cube_trans1.00_sphere1.25
       vertex 2.000000 0.104896 0.331821
       vertex 2.000000 0.103761 0.323284
       vertex 2.000000 0.116117 0.315029
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 1.600853 0.125914
+      vertex 2.000000 1.883883 0.315029
+      vertex 2.000000 1.895104 0.331821
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 1.600853 0.125914
+      vertex 2.000000 1.895104 0.331821
+      vertex 2.000000 1.883883 0.416243
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 1.600853 0.125914
+      vertex 2.000000 1.883883 0.416243
+      vertex 2.000000 1.843036 0.553456
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 0.000000
+    outer loop
+      vertex 2.000000 1.090188 0.000000
+      vertex 2.000000 1.256835 0.000000
+      vertex 2.000000 1.478354 0.044063
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 0.000000
+    outer loop
+      vertex 2.000000 1.090188 0.000000
+      vertex 2.000000 1.478354 0.044063
+      vertex 2.000000 1.600853 0.125914
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 0.000000
+    outer loop
+      vertex 2.000000 1.090188 0.000000
+      vertex 2.000000 1.600853 0.125914
+      vertex 2.000000 1.843036 0.553456
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 0.000000
+    outer loop
+      vertex 2.000000 1.090188 0.000000
+      vertex 2.000000 1.843036 0.553456
+      vertex 2.000000 1.833411 0.585786
     endloop
   endfacet
   facet normal 1.000000 -0.000000 -0.000000
@@ -1021,6 +2001,62 @@ solid cube_trans1.00_sphere1.25
       vertex 2.000000 0.521646 0.305941
     endloop
   endfacet
+  facet normal 1.000000 -0.000000 0.000000
+    outer loop
+      vertex 2.000000 1.716311 0.493491
+      vertex 2.000000 1.833411 0.585786
+      vertex 2.000000 1.797237 0.707302
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 0.000000
+    outer loop
+      vertex 2.000000 1.317571 0.268216
+      vertex 2.000000 1.478354 0.305941
+      vertex 2.000000 1.716311 0.493491
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 0.000000
+    outer loop
+      vertex 2.000000 1.317571 0.268216
+      vertex 2.000000 1.716311 0.493491
+      vertex 2.000000 1.797237 0.707302
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 0.000000
+    outer loop
+      vertex 2.000000 1.317571 0.268216
+      vertex 2.000000 1.797237 0.707302
+      vertex 2.000000 1.769318 0.801088
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.835786 0.232233
+      vertex 2.000000 1.000000 0.193703
+      vertex 2.000000 1.317571 0.268216
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.835786 0.232233
+      vertex 2.000000 1.317571 0.268216
+      vertex 2.000000 1.478354 0.457873
+    endloop
+  endfacet
+  facet normal 1.000000 0.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.173989 0.579954
+      vertex 2.000000 0.521646 0.305941
+      vertex 2.000000 0.835786 0.232233
+    endloop
+  endfacet
+  facet normal 1.000000 0.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.173989 0.579954
+      vertex 2.000000 0.835786 0.232233
+      vertex 2.000000 1.000000 0.289897
+    endloop
+  endfacet
   facet normal 1.000000 -0.000000 -0.000000
     outer loop
       vertex 2.000000 0.230682 0.801088
@@ -1033,6 +2069,20 @@ solid cube_trans1.00_sphere1.25
       vertex 2.000000 0.230682 0.801088
       vertex 2.000000 0.173989 0.579954
       vertex 2.000000 0.521646 0.457873
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 0.000000
+    outer loop
+      vertex 2.000000 1.586794 0.585786
+      vertex 2.000000 1.769318 0.801088
+      vertex 2.000000 1.710103 1.000000
+    endloop
+  endfacet
+  facet normal 1.000000 -0.000000 -0.000000
+    outer loop
+      vertex 2.000000 0.289897 1.000000
+      vertex 2.000000 0.230682 0.801088
+      vertex 2.000000 0.413206 0.585786
     endloop
   endfacet
   facet normal -0.552209 -0.826439 -0.109841
