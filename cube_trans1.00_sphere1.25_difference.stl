@@ -1,4 +1,4 @@
-solid cube_minus_trans_sphere1_25
+solid cube_trans1.00_sphere1.25
   facet normal -0.000000 0.000000 -1.000000
     outer loop
       vertex 1.909015 0.000000 0.000000
@@ -2267,4 +2267,4 @@ solid cube_minus_trans_sphere1_25
       vertex 1.816602 0.116117 0.661752
     endloop
   endfacet
-endsolid cube_minus_trans_sphere1_25
+endsolid cube_trans1.00_sphere1.25
